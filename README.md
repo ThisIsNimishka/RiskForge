@@ -4,9 +4,9 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)](https://fastapi.tiangolo.com/)
 [![MLflow](https://img.shields.io/badge/MLflow-2.8-orange.svg)](https://mlflow.org/)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B)](https://riskforge.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://riskforge.streamlit.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI/CD](https://github.com/YOUR_USERNAME/riskforge/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/riskforge/actions)
+[![CI/CD](https://github.com/ThisIsNimishka/RiskForge/actions/workflows/ci.yml/badge.svg)](https://github.com/ThisIsNimishka/RiskForge/actions)
 
 > **RiskForge** is a production-grade ML platform for real-time credit risk assessment —
 > ensemble models, SHAP explainability, automated drift detection, and a live analyst dashboard.
@@ -86,7 +86,7 @@ Financial institutions lose **$25B+ annually** to bad credit decisions. Traditio
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/YOUR_USERNAME/riskforge.git
+git clone https://github.com/ThisIsNimishka/RiskForge.git
 cd riskforge
 
 # Create virtual environment
@@ -271,7 +271,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 🙋 Author
 
-**Your Name** | Data Scientist  
-[LinkedIn](https://linkedin.com/in/yourname) • [Portfolio](https://yourportfolio.com)
+**Nimishka** | Data Scientist  
+[GitHub](https://github.com/ThisIsNimishka) • [Live Demo](https://riskforge.streamlit.app)
 
 > *This project demonstrates production-grade ML engineering: not just model accuracy, but reliability, explainability, and maintainability at scale.*
